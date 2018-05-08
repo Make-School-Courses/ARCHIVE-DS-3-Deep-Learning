@@ -26,5 +26,5 @@
 Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
 
 
-[Perceptrons]: Perceptrons.md
-[Activation Functions]: ActivationFunctions.md
+[Perceptrons]: topics/Perceptrons.md
+[Activation Functions]: topics/ActivationFunctions.md
