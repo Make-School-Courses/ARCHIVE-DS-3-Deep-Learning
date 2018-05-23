@@ -12,13 +12,13 @@
 |   2   |   Tuesday, May 1    | [Activation Functions]              |
 |   3   |  Thursday, May 3    | Perceptron Training                 |
 |   4   |   Tuesday, May 8    | [Multilayer Perceptrons]            |
-|   5   |  Thursday, May 10   | *Training Problems & Solutions*     |
-|   6   |   Tuesday, May 15   | *End-to-End Data Science Process*   |
-|   7   |  Thursday, May 17   | *Deep Neural Networks Architecture* |
-|   8   |   Tuesday, May 22   | *Convolutional Neural Networks*     |
-|   9   |  Thursday, May 24   | *Independent Project Guidance*      |
-|  10   |   Tuesday, May 29   | *TensorFlow*                        |
-|  11   |  Thursday, May 31   | *Independent Project Presentations* |
+|   5   |  Thursday, May 10   | Backpropagation & Gradient Descent  |
+|   6   |   Tuesday, May 15   | [End-to-End Data Science Process]   |
+|   7   |  Thursday, May 17   | [Improving Training Performance]    |
+|   8   |   Tuesday, May 22   | End-to-End Project Presentations    |
+|   9   |  Thursday, May 24   | Convolutional Neural Networks       |
+|  10   |   Tuesday, May 29   | Independent Project Presentations   |
+|  11   |  Thursday, May 31   | *No Class (Field Trip)*             |
 
 
 ## Repository Setup Instructions
@@ -29,3 +29,6 @@ Please follow [these instructions](Setup.md) exactly to set up your fork of this
 [Perceptrons]: topics/Perceptrons.md
 [Activation Functions]: topics/ActivationFunctions.md
 [Multilayer Perceptrons]: topics/MultilayerPerceptrons.md
+[Improving Training Performance]: topics/ImprovingPerformance.md
+
+[End-to-End Data Science Process]: https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit
