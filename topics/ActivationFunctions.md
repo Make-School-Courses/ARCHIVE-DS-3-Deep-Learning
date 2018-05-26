@@ -9,6 +9,7 @@
 - Read Mark Humphry’s notes on [multi-layer neural networks]
 - Read Andrew Trask’s articles on building a neural network in Python – [part 1: optimization][Trask Neural Network part 1] and [part 2: gradient descent][Trask Neural Network part 2] – Pay close attention to the diagrams in part 2 to gain an intuition for gradient descent
 - Read Ivan Vasilev’s [deep learning tutorial], but stop when you get to the autoencoders section because it’s not relevant for this course
+- Read Sebastian Raschka's article on the [role of the activation function]
 - Watch Alexander Ihler’s videos on [neural networks] and [gradient descent]
 - Play around with the [TensorFlow playground] to create multilayer perceptron networks
 
@@ -25,6 +26,7 @@
 [Trask neural network part 1]: http://iamtrask.github.io/2015/07/12/basic-python-network/
 [Trask neural network part 2]: http://iamtrask.github.io/2015/07/27/python-network-part2/
 [deep learning tutorial]: https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+[role of the activation function]: https://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html
 [neural networks]: https://www.youtube.com/watch?v=bH6VnezBZfI
 [gradient descent]: https://www.youtube.com/watch?v=WnqQrPNYz5Q
 [TensorFlow playground]: http://playground.tensorflow.org/
