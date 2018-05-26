@@ -16,7 +16,7 @@
 |   6   |   Tuesday, May 15   | [End-to-End Data Science Process]   |
 |   7   |  Thursday, May 17   | [Improving Training Performance]    |
 |   8   |   Tuesday, May 22   | End-to-End Project Presentations    |
-|   9   |  Thursday, May 24   | Convolutional Neural Networks       |
+|   9   |  Thursday, May 24   | [Convolutional Neural Networks]     |
 |  10   |   Tuesday, May 29   | Independent Project Presentations   |
 |  11   |  Thursday, May 31   | *No Class (Field Trip)*             |
 
@@ -30,5 +30,6 @@ Please follow [these instructions](Setup.md) exactly to set up your fork of this
 [Activation Functions]: topics/ActivationFunctions.md
 [Multilayer Perceptrons]: topics/MultilayerPerceptrons.md
 [Improving Training Performance]: topics/ImprovingPerformance.md
+[Convolutional Neural Networks]: topics/ConvolutionalNetworks.md
 
 [End-to-End Data Science Process]: https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit
