@@ -12,6 +12,7 @@
 ### Resources
 - Read Andrew Trask's articles on building a neural network in Python – [part 1: optimization][Trask Neural Network part 1] and [part 2: gradient descent][Trask Neural Network part 2] – Pay close attention to the diagrams in part 2 to gain an intuition for gradient descent
 - Watch Andrew Ng's videos on [gradient descent] and the [intuition behind it][gradient descent intuition]
+- Watch 3Blue1Brown's videos on [neural networks, gradient descent, and backpropagation][3Blue1Brown neural networks playlist]
 - Reference the [Keras callbacks documentation][Keras callbacks TensorBoard] with examples to create TensorBoard callbacks
 - Reference the [Keras `Sequential` model documentation][Keras sequential model] with examples of using dropout layers
 - Read Jason Brownlee's article on [dropout regularization] and the intuition behind why it adds robustness to neural networks
@@ -36,10 +37,11 @@
 [Trask neural network part 1]: http://iamtrask.github.io/2015/07/12/basic-python-network/
 [Trask neural network part 2]: http://iamtrask.github.io/2015/07/27/python-network-part2/
 [gradient descent]: https://www.youtube.com/watch?v=LN0PLnDpGN4
-[gradient descent intuition]: https://www.youtube.com/watch?v=kWq2k1gPyBs&t=1s
+[gradient descent intuition]: https://www.youtube.com/watch?v=kWq2k1gPyBs
+[3Blue1Brown neural networks playlist]: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 [Why Momentum Really Works]: https://distill.pub/2017/momentum/
 [dropout regularization]: https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
 [Keras callbacks TensorBoard]: https://keras.io/callbacks/#tensorboard
 [Keras sequential model]: https://keras.io/getting-started/sequential-model-guide/
 
-[improving performance notebook]: notebooks/ImprovingPerformance.ipynb
+[improving performance notebook]: ../notebooks/ImprovingPerformance.ipynb
