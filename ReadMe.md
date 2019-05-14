@@ -1,4 +1,6 @@
-# DS 3: Neural Networks & Deep Learning
+# ARCHIVE - DS 3: Neural Networks & Deep Learning
+
+## NOTE: This repo is no longer maintained
 
 ## Course Schedule
 
